@@ -8,7 +8,7 @@ Le défilement des images doit se faire de manière automatique toutes les 5 sec
 Une flèche se trouve sur chaque côté afin de pouvoir avancer ou reculer dans le carousel da manière manuel.
 
 ## Preview
-
+![Preview](preview.png)
 
 ## Rappel
 Une étape après l'autre ;)
