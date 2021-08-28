@@ -1,11 +1,23 @@
+body{
+    background-color: hsl(202, 39%, 89%);
+}
+
 #carrousel{
     position:absolute;
     display: flex;
     align-items: center;
+    margin-left: 20%;
 }
 
-#nav-right, #nav-left{
-    margin-top: 20%;
+#nav-right{
+    margin-top: 15%;
     position: relative;
     font-size: 5em;
+}
+
+#nav-left{
+    font-size: 5em;
+    margin-top: 15%;
+    position: relative;
+    
 }
