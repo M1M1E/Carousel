@@ -1,0 +1,11 @@
+#carrousel{
+    position:absolute;
+    display: flex;
+    align-items: center;
+}
+
+#nav-right, #nav-left{
+    margin-top: 20%;
+    position: relative;
+    font-size: 5em;
+}
